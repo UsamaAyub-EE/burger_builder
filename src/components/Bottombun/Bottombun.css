@@ -1,0 +1,12 @@
+.BreadBottom {
+  height: 13%;
+  width: 80%;
+  background: -webkit-gradient(linear, left top, left bottom, from(#F08E4A), to(#e27b36));
+  background: -webkit-linear-gradient(#F08E4A, #e27b36);
+  background: -o-linear-gradient(#F08E4A, #e27b36);
+  background: linear-gradient(#F08E4A, #e27b36);
+  border-radius: 0 0 30px 30px;
+  -webkit-box-shadow: inset -15px 0 #c15711;
+          box-shadow: inset -15px 0 #c15711;
+  margin: 2% auto;
+}

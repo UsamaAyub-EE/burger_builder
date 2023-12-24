@@ -1,0 +1,10 @@
+.Lettuce {
+  width: 85%;
+  height: 7%;
+  margin: 2% auto;
+  background: -webkit-gradient(linear, left top, left bottom, from(#228c1d), to(#91ce50));
+  background: -webkit-linear-gradient(#228c1d, #91ce50);
+  background: -o-linear-gradient(#228c1d, #91ce50);
+  background: linear-gradient(#228c1d, #91ce50);
+  border-radius: 20px;
+}

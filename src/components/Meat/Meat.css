@@ -1,0 +1,10 @@
+.Meat {
+  width: 80%;
+  height: 8%;
+  background: -webkit-gradient(linear, left top, left bottom, from(#7f3608), to(#702e05));
+  background: -webkit-linear-gradient(#7f3608, #702e05);
+  background: -o-linear-gradient(#7f3608, #702e05);
+  background: linear-gradient(#7f3608, #702e05);
+  margin: 2% auto;
+  border-radius: 15px;
+}

@@ -1,0 +1,10 @@
+.Cheese {
+  width: 90%;
+  height: 4.5%;
+  margin: 2% auto;
+  background: -webkit-gradient(linear, left top, left bottom, from(#f4d004), to(#d6bb22));
+  background: -webkit-linear-gradient(#f4d004, #d6bb22);
+  background: -o-linear-gradient(#f4d004, #d6bb22);
+  background: linear-gradient(#f4d004, #d6bb22);
+  border-radius: 20px;
+}

@@ -1,0 +1,57 @@
+.main{
+  margin: 20px auto;
+  margin-top: 80px;
+  width: 80%;
+  text-align: center;
+  -webkit-box-shadow: 0 2px 3px #ccc;
+  box-shadow: 0 2px 3px #ccc;
+  border: 1px solid #eee;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.Input{
+  width: 100%;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.Label{
+  font-weight: 700;
+  display: block;
+  margin-bottom: 8px;
+}
+.Input_type{
+  outline: none;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  font: inherit;
+  padding: 6px 10px;
+  display: block;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.Button__Button__ajevi:first-of-type {
+  margin-left: 0;
+  padding-left: 0;
+}
+.Button__Success__1DMln {
+  color: #5c9210;
+}
+.Button__Button__ajevi {
+  background-color: transparent;
+  border: none;
+  /* color: #fff; */
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  font-weight: inherit;
+  padding: 10px;
+  margin: 10px;
+  font-weight: 700;
+}
+.Danger{
+  color: #944317;
+}

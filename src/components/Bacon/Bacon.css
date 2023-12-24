@@ -1,0 +1,9 @@
+.Bacon {
+  width: 80%;
+  height: 3%;
+  background: -webkit-gradient(linear, left top, left bottom, from(#bf3813), to(#c45e38));
+  background: -webkit-linear-gradient(#bf3813, #c45e38);
+  background: -o-linear-gradient(#bf3813, #c45e38);
+  background: linear-gradient(#bf3813, #c45e38);
+  margin: 2% auto;
+}
